@@ -1,10 +1,10 @@
 {
-  "name": "@rajandmr/gh-package",
-  "version": "1.0.1",
+  "name": "@Nasirhanns/skrep",
+  "version": "0.0.1",
   "description": "Package for trying out GITHUB Package Registry",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@rajandmr"
+    "registry": "https://npm.pkg.github.com/@Nasirhanns"
   },
   "scripts": {
     "start": "node index.js"
